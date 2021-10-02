@@ -1,6 +1,10 @@
 # Materiais
+Sistema de cadastro de materiais desenvovlvido para aprendizagem de criação de classes e funçoes e conexão de Python com banco de dados sql utilizando sqlite.
 
-Sistema de cadastro de materiais de uma loja
-Utilizado python e Sqlite
+Teconologias utilizadas:
+
+° Linguagem de programação: Python (criação de classes, funções, condicionais if/else, validação de dados)
+
+° Banco de dados: Sqlite
 
 Sj.
